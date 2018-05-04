@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RoomPersistenceDemo</string>
+    <string name="button_label_text">Add to database</string>
+</resources>
